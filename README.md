@@ -1,2 +1,2 @@
 # alacrity_1
-Programming Challenger Alacrity
+Programming Challenges Alacrity Foundation
